@@ -22,7 +22,7 @@ This is a sample application which shows how to export the data from a Grid to P
 
 **Wait, I just want to see how this app looks without compiling**
 
-* Run it directly from github [here](https://rawgit.com/shikhirsingh/ExtJS-Theming-Helper-App/master/build/index.html)
+* Run it directly from github [here](https://rawgit.com/shikhirsingh/ExtJS-Grid-PDF-Exporter/master/build/index.html)
 
 
 **Steps to install and run this application**
