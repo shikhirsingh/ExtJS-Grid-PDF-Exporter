@@ -1,4 +1,4 @@
-Ext.define('App.exporter.PdfExporter', {
+Ext.define('App.exporter.PdfExporter6', {
     extend: 'Ext.exporter.Base',
     alias: 'exporter.pdf',
 
