@@ -11,6 +11,8 @@ This is a sample application which shows how to export the data from a Grid to P
 
 * Updated By: [Shikhir Singh](http://www.shikhir.com/)
 
+**Blog**
+* Associated [blog](https://www.sencha.com/blog/exporting-data-from-an-ext-js-grid-to-pdf/)
 
 **Dependencies to compile**
 
