@@ -11,6 +11,7 @@ Ext.define('GridExportPdf.view.main.MainController', {
 
     exportToExcel: function(){
         this.getView().down("grid").saveDocumentAs({
+            type: 'pdf',
             fileName:   'grid-export.pdf'
         });
     }

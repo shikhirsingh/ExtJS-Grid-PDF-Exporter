@@ -8,7 +8,8 @@ Ext.define('GridExportPdf.view.main.StockGrid', {
     requires: [
         'Ext.grid.plugin.Exporter',
         'Ext.util.Format',
-        'GridExportPdf.exporter.PdfExporter',
+        'Ext.grid.plugin.Exporter',
+        'GridExportPdf.exporter.Pdf',
         'GridExportPdf.store.NyseStocks'
     ],
 
@@ -47,6 +48,6 @@ Ext.define('GridExportPdf.view.main.StockGrid', {
     },
 
     plugins: [{
-        ptype: 'gridpdfexporter'
+        ptype: 'gridexporter'
     }]
 });
