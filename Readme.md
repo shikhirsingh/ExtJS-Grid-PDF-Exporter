@@ -43,6 +43,7 @@ This is a sample application which shows how to export the data from a Grid to P
 * Make sure your are placing the correct directory into your Sencha Cmd workspace. You need to put in just the src directory
 * Ensure your workspace/ext directory is running Ext JS 6.x (not earlier build)
 * Make sure you have installed the Sencha Exporter package. Currently it is bundled with Ext JS Pivot Grid addons, although Pivot grid is not a dependency
+* I've not been able to maintain this release(I no longer work at Sencha) and have ad to accept a couple of pull requests without doing a proper code review. Please look at the "Release" marked 1.0 as it was the last well tested version
 
 
 ## Disclaimer
